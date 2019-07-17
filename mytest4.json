@@ -1,1 +1,9 @@
-
+{
+    "str": "good",
+    "array": [
+        "first_good",
+        "middle_good", 
+        "last_bad
+    ],
+    "int": 123
+}
